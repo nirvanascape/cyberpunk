@@ -16,7 +16,7 @@
         {
             //0
             type: 'sticky', //씬에 스크롤 애니메이션이 있으면 sticky 없으면 normal
-            heightNum: 7, 
+            heightNum: 9, 
             scrollHeight: 0, 
             objs:{ 
                 messageA: document.querySelector('#scroll-section-0 .main-message.a'),
