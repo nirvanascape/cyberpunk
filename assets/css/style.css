@@ -437,7 +437,7 @@ section{overflow-x: hidden;}
 .ico_twitch{width:2.3rem; height:2.3rem; background-image: url(../images/ico_twitch.svg); background-size:cover;}
 .scroll-section{/*padding-top:50vh;*/ /*position:relative;*/ overflow:hidden;}
 .main-message{display:flex; align-items:center; justify-content:center; top:48vh; height:3em; font-size:5rem; font-weight:bold; text-align: center; color:#f8ef03; opacity:0;}
-#scroll-section-0:after{position:absolute; content:''; top:0; right:0; left:0; bottom:0; background-color:rgba(0,0,0,0.3); }
+#scroll-section-0:after{position:absolute; content:''; top:0; right:0; left:0; bottom:0; background-color:rgba(0,0,0,0.4); }
 #scroll-section-0 .main-message{z-index:30;}
 .sticky-elem{display:none; position:fixed; left:0; width:100%;}
 .sticky-elem2{position:absolute;}
