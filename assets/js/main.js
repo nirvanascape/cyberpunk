@@ -34,8 +34,8 @@
 				videoImages: []
             },
             values:{
-                videoImageCount: 718, 
-                imageSequence: [0, 717],
+                videoImageCount: 595, 
+                imageSequence: [0, 594],
                 titleLogo_opacity: [1, 0, { start: 0.8, end:0.9 }],
                 titleLogo_translateY: [0, -200, { start: 0.8, end: 1 }],
                 cyberBtn_translateY_down: [0, -200, { start: 0.8, end: 1 }],
